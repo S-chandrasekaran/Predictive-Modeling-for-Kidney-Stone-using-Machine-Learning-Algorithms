@@ -102,4 +102,3 @@ Navigate to the local URL shown in the terminal (usually `http://localhost:8501`
 Developed by **Chandrasekaran S & Team**  
 Passionate about building real-world AI solutions for healthcare.
 
-```
